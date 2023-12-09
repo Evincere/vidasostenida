@@ -1,0 +1,15 @@
+.unirse{
+    color: #fff;
+    width: 100%;
+    background-color: #EDFFEE;
+    /* background-color: #004740; */
+    height: auto;
+    padding: 15px;
+    justify-content: space-around;
+    text-align: center;
+}
+
+#section-unirse p{
+    color: #004740;
+    text-align: center;
+}

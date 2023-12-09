@@ -1,0 +1,44 @@
+#que-hacemos{
+    background-color:#F5F8F4;
+    width: 100%;
+    height: auto;
+    padding: 30px;
+    text-align: left;
+}
+
+/* ////////////////////////////// */
+
+
+#que-hacemos .bloque1{
+width: 50%;
+padding-right: 3%;
+}
+
+#que-hacemos .bloque2{
+width: 50%;
+background-image: url(../../img/naturaleza/nat4.png);
+background-repeat: no-repeat;
+border-image-repeat: none;
+background-size: cover;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items:center;
+}
+#que-hacemos .bloques{
+    display: flex;
+    flex-direction: row;
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 768px) {
+    #que-hacemos .bloque2{
+        display: none;
+    }
+    #que-hacemos .bloque1{
+        width: 100%;
+    }
+}
+
+
+

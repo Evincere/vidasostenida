@@ -1,0 +1,25 @@
+#nuestro-trabajo{
+    margin: 30px;
+}
+
+#carouselExampleCaptions p{
+text-align: center;
+text-shadow: 2px 2px 2px #000000;
+}
+
+#carouselExampleCaptions h5{
+    text-align: center;
+    text-shadow: 2px 2px 2px #000000;
+    }
+
+#carouselExampleCaptions{
+
+padding-bottom: 30px;
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 600px) {
+    #carouselExampleCaptions{
+        display: none;
+        }
+}

@@ -1,0 +1,45 @@
+/* Quienes somos main page */
+#quienes-somos{
+ padding: 30px 15px;
+ text-align: left;
+}
+
+.portraits-bloques h6{
+    color:#004740;
+    font-weight: bold;
+
+}
+/* End Quienes somos main page */
+
+/* ---------- */
+
+/* Pages - Quienes somos */
+
+.portraits img{
+    width: 280px;
+    padding: 20px 0px 20px 0px;
+}
+
+.portraits p{
+    text-align: center;
+
+}
+
+.portraits-bloques, .blockquote-footer{
+    text-align: center;
+
+}
+
+/* End Imagenes de miembros + info */
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+    .portraits .img-fluid{
+        width: 280px;
+        padding: 20px 0px 20px 0px;
+        text-align: center;
+    }
+
+}
+

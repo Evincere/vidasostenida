@@ -1,0 +1,15 @@
+/* Main page */
+@import "./general-settings.css";
+@import "./secciones/header.css";
+@import "./secciones/hero.css";
+@import "./secciones/que-hacemos.css";
+@import "./secciones/quienes-somos.css";
+@import "./secciones/nuestro-trabajo.css";
+@import "./secciones/publicaciones.css";
+@import "./secciones/prensa.css";
+@import "./secciones/contacto.css";
+@import "./secciones/unirse.css";
+@import "./secciones/nuestro-equipo.css";
+@import "./secciones/quote.css";
+@import "./secciones/voluntarios.css";
+@import "./secciones/footer.css";

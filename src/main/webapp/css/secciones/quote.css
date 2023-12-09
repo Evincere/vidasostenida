@@ -1,0 +1,37 @@
+#quote{
+    width: 100%;
+    height: auto;
+    background-color: #338A6F;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+#quote i{
+    font-size: 100px;
+    color: #004740;
+    margin-top: 20px;
+}
+
+#quote p {
+    margin: 30px;
+    text-align: center;
+}
+
+#quote .blockquote-footer{
+    color: #000000;
+}
+
+#quote .blockquote{
+font-family: "LT Museum", sans-serif;
+font-weight: 300;
+font-size: 35px;
+}
+
+.bloque-quote{
+    height: auto;
+}

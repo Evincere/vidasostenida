@@ -1,0 +1,38 @@
+#section-equipo{
+    margin: 30px;
+
+}
+
+#section-equipo p{
+    margin: 30px;
+    text-align: center;
+}
+
+.portraits p{
+    text-align: center;
+}
+
+.portraits .texto_bio{
+    text-align: left;
+}
+
+.fotos-equipo img{
+    height: auto;
+    width: 600px;
+    padding: 20px 60px;
+}
+
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 768px) {
+    .fotos-equipo{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin: 10px;
+    }
+}
+
+
